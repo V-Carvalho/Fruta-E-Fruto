@@ -2,9 +2,9 @@
 
 #### Projeto desenvolvido em aula sobre *arquitetura CSS*, especialização em Front-end oferecido pela Oracle em parceria com Alura
 
-<https://github.com/V-Carvalho/Jogo-Da-Memoria/assets/34304319/bf32f5c8-2ef8-4199-a485-7d8599565393>
-
 Você pode acessar <a href="https://memory-game-rick-morty.netlify.app/" target="_blank">clicando aqui</a> para conferir!
+
+![Fruta FrutoPrint](https://github.com/V-Carvalho/Fruta-E-Fruto/assets/34304319/84fb7dc1-b4f8-460e-8733-911fa01a91d9)
 
 ## ✔️ Tecnologias utilizadas
 
